@@ -1,1 +1,30 @@
+Publications:
+
+Journal:
+-	“Improving Transliteration Mining by Integrating Expert Knowledge with Statistical Approaches,” International Journal of Computer Applications 58(17):12-22, November 2012.
+-	“Cross-Language Phonetic Similarity Measure on Terms Appeared in Asian Languages,” International Journal of Intelligent Information Processing (doi: 10.4256/ijiip.vol2.issue2.2), Jun.2011 
+
+International Conference & Workshop:
+-	“Sakura at SemEval-2023 Task 2: Data Augmentation via Translation”, Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), pages 1718–1722, Toronto, Canada. Association for Computational Linguistics.
+-	“Controlling Japanese Machine Translation Output by Using JLPT Vocabulary Levels,” Proceedings of the Workshop on Text Simplification, Accessibility, and Readability (TSAR-2022), Dec 7-11, 2022, Abu Dhabi, United Arab Emirates.
+-	“Rakuten's Participation in WAT 2022: Parallel Dataset Filtering by Leveraging Vocabulary Heterogeneity,” Proceedings of the 9th Workshop on Asian Translation (2022), Oct 17, 2022, Gyeongju, Republic of Korea.
+-	“Rakuten's Participation in WAT 2021: Examining the Effectiveness of Pre-trained Models for Multilingual and Multimodal Machine Translation,” Proceedings of the 8th Workshop on Asian Translation (WAT2021), Aug 06, 2021, Bangkok, Thailand.
+-	“Goku's Participation in WAT 2020,” Proceedings of the 7th Workshop on Asian Translation (WAT2020), Nov 04, 2021, Suzhou, China.
+-	“Sarah's Participation in WAT 2019,” Proceedings of the 6th Workshop on Asian Translation (WAT 2019), Nov 04, 2019, Hong Kong, China.
+-	“Phonetically Based Extraction of Japanese Synonyms from Rakuten Ichiba's Item Titles,” Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), May. 2018, Japan.
+-	“Development of Cross-Lingual Phonetic Similarity Metrics,” NSTDA-TUT-NUT Joint Symposium on Future Collaboration, Thailand Science Park, National Science, and Technology Development Agency, Toyohashi University of Technology, and Nagaoka University of Technology, Sep. 2013, Thailand.
+-	“The NICT Translation System for IWSLT 2012,” The International Workshop on Spoken Language Translation (IWSLT2012), Dec. 2012, Hong Kong.
+-	“Cross-Language Phonetic Similarity Metrics” (Young Researcher Paper Award), IEEE Shin-Etsu Section 2010 (電子情報通信学会信越支部大会IEEE 信越支部セッション), Oct. 2010, NUT, Japan.
+-	“Measuring Phonetic Similarities in Myanmar IDNs,” International Conference on Computer Applications (ICCA-2010), Mar. 2010, Yangon, Myanmar.
+-	“Analysis of Terminology Terms in Multilingual Terminology Dictionary,” International Conference on Computer Applications (ICCA-2010), Mar. 2010, Yangon, Myanmar.
+-	“Development of Community-based Multilingual Terminology Dictionary on the KUI Platform,” The Seventh International Conference on Computer Applications, Feb. 2009, Yangon, Myanmar.
+-	“Statistical Analysis of Myanmar Word on the World Wide Web for Search Engine Development,” The Seventh International Conference on Computer Applications, Feb. 2009, Yangon, Myanmar.
+-	“Effective Use of Environmental Management Information Systems with Data Crawling Techniques,” International Conference on Humans and Computers (HC-2008), Nov. 2008, NUT, Japan.
+-	“The Future Project Managers in Myanmar: From Tribal PM to Competency-Based PM,” International Project and Program Management Symposium Tokyo 2008, Project Management Association of Japan, Mar. 2008, Tokyo, Japan.
+
+Non-International Conference, Workshop & others:
+-	“A Journey of NLP Researcher from Academia to Industry,” as an invited speaker at iSAI-NLP-AIoT-ICCT, Nov. 5-7, 2022, Chiang Mai, Thailand.  
+-	“Enhancing Distance-Based Similarity Measure Method,” GII-GITS Workshop on Natural Language Processing for Asian Languages, Jointly held between Urano Lab, Waseda University, and Mikami Lab, Nagaoka University of Technology. Oct. 2011, NUT, Japan.
+-	“Measuring phonetic similarities of words across languages,” GII-GITS Workshop on Natural Language Processing for Asian Languages, Jointly held between Urano Lab, Waseda University and Mikami Lab, Nagaoka University of Technology, Oct. 2009, Waseda University, Tokyo, Japan.
+-	“Improving the Timeliness of Environmental Management Information Systems with Data Crawling Techniques,” GSIM Working Papers, Series No. IM-2009-06, Jun. 2009, IUJ, Japan.
 
