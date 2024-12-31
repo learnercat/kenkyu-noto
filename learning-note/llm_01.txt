@@ -1,0 +1,12 @@
+
+LLM Note
+
+Direct Preference Optimization (DPO)
+Direct Preference Optimization (DPO) is a fine-tuning method for aligning language models with human preferences. Instead of relying on reinforcement learning (like RLHF), DPO uses a supervised approach where the model is trained to rank a preferred output higher than a dispreferred one based on human feedback. It achieves this by directly optimizing a preference score using a contrastive loss function, which simplifies the training process while maintaining alignment quality.
+
+Odds Ratio Preference Optimization (ORPO)
+Odds Ratio Preference Optimization (ORPO) is a fine-tuning technique that aligns language models with human preferences by modeling the odds ratio of preferred outputs versus dispreferred ones. It uses a probabilistic framework to adjust the model’s behavior, optimizing the log-odds ratio of preference probabilities. This approach simplifies the training process compared to reinforcement learning-based methods, maintaining robust alignment while being computationally efficient.
+
+Contrastive Loss Function
+The contrastive loss function is used to learn representations by comparing pairs of data points. It minimizes the distance between similar pairs (positive pairs) and maximizes the distance for dissimilar pairs (negative pairs) in the embedding space. This is particularly useful in tasks like metric learning, ranking, and preference modeling.
+
